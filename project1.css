@@ -1,0 +1,145 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.first_logo{
+    
+
+}
+
+.second_logo{
+    position: relative;
+    left:1250px;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.intro{ 
+    
+    text-align: center;
+    
+}
+
+
+
+.box{
+    flex-wrap: wrap;
+    border-style: solid;
+    background-color: pink;
+    margin-left: 5%;
+    margin-right: 7%;
+    padding: 50px;
+    height: 600px;
+    padding-right: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.one{
+    
+    margin: 3%;
+    
+
+}
+
+
+
+.two{
+    border-style: solid;
+    float: right;
+    margin: 3%
+    bottom:10px;
+}
+
+
+
+
+.h3{
+    margin-left: 7%;
+}
+
+
+.first_list {
+    margin-left: 3%;
+}
+
+
+
+
+
+.firstlist{
+    margin-left: 100px;
+}
+
+.news{
+    background-color: antiquewhite;
+    margin-left: 100px;
+    margin-right: 105px;;
+    
+}
+
+
+.table{
+    border-color: black;
+    border-style: solid;
+    margin-left: 100px;
+    margin-right: 105px;;
+    
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+  }
+  
+
+.contact{
+    margin-left: 100px;
+    list-style-type: none;
+}
+
+
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+  }
+
+
+.threebyone{
+
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.threebyone > div{
+    float: left;
+    width: 33%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 3px solid black;
+
+    
+}
+
+
+
+
+
